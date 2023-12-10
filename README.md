@@ -9,3 +9,8 @@
 3. **model_cease_recsys.ipynb** 실행
 4. Top-20결과 파일을 **ensemble** 폴더내 **preds** 내로 결과를 옮기기
 5. **ensemble** 폴더의 **ensemble.ipynb** 실행후 최종 제출용 Top-5파일 생성
+
+* * *
+### References
+- [Utils](https://github.com/recommenders-team/recommenders/blob/main/recommenders/datasets/python_splitters.py)
+- [Cornac](https://cornac.preferred.ai/)

@@ -3,6 +3,10 @@
 이력서, 채용 공고 및 지원 히스토리 데이터를 활용하여 구직자에게 맞춤화된 채용 공고를  
 자동으로 추천할 수 있는 추천시스템 알고리즘 개발
 
+* model_overview
+<img width="700" alt="image" src="https://github.com/jin-wook-lee-96/KMU_recsys_competition/assets/107802548/acde2a5f-c0ab-428b-8c55-de7d8e260b27">
+
+
 # Running a Model
 1. **model_Cornac_recsys.ipynb** 실행
 2. **Recsys_preprocessing_V3.ipynb** cease용 전처리 파일 실행
